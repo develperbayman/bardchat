@@ -1,0 +1,17 @@
+{
+  "prompts": [
+    "What can I do for you today?",
+    "What programming language do you want to use?",
+    "What kind of code do you want me to generate?",
+    "What is your question about [topic area]?",
+    "Can you give me more information about [topic area]?",
+    "Can you explain [concept] in more detail?"
+  ],
+  "instructions": [
+    "Generate a response that is relevant to the conversation history.",
+    "Generate code that is efficient and idiomatic.",
+    "Use your knowledge of [topic area] to answer the question.",
+    "Provide a comprehensive and informative answer.",
+    "Explain the concept in a clear and concise way."
+  ]
+}
